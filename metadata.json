@@ -1,0 +1,6 @@
+{
+  "name": "ISPL Cricket",
+  "description": "Indian School Premier League - Identifies, developments, and promotes India's biggest school cricket platform through digital dashboards, local trials, and auctions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
